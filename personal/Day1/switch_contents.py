@@ -23,4 +23,3 @@ b = c
 print('a = ' + a)
 print('b = ' + b)
 #Don't change the code above
-#what
