@@ -1,0 +1,5 @@
+name = input('What is your name? ')
+name_minus_spaces = name.replace(' ', '')
+length = len(name_minus_spaces)
+print(f"Hello, {name.title()}!")
+print(f"Your name is {length} characters long.")
